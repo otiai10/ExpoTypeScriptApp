@@ -2,6 +2,8 @@
 
 > Before you clone this repository, please check the last updated date of this repository, because there are many updates day by day around react-native and expo ecosystem ;)
 
+<img src="https://cdn-ak.f.st-hatena.com/images/fotolife/o/otiai10/20181120/20181120181551.png" width="60%" />
+
 # Getting Started
 
 ```sh
@@ -12,7 +14,7 @@
 # You might press "i" to launch iOS simulator on your computer
 ```
 
-# Environments
+# Environment
 
 - node: 9.11.2
 - npm: 6.4.1
