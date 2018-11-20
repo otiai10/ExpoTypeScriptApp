@@ -1,8 +1,8 @@
 {
   "expo": {
-    "name": "MyTypeScriptRNApp",
+    "name": "ExpoTypeScriptApp",
     "description": "This project is really great.",
-    "slug": "MyTypeScriptRNApp",
+    "slug": "ExpoTypeScriptApp",
     "privacy": "public",
     "sdkVersion": "31.0.0",
     "platforms": ["ios", "android"],
